@@ -1,4 +1,4 @@
-### invoices_management_app
+## invoices_management_app
 Cette application mobile Flutter permet de **créer, gérer et visualiser des factures** clients de manière simple et rapide.
 - Saisie des **informations du client** : nom, email, date de facture
 - Ajout dynamique d’**articles** (description, quantité, prix unitaire HT)
